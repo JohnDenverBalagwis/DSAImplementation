@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.exe
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.deps.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.runtimeconfig.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\ref\linkedListImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\bin\Debug\net5.0\linkedListImplementation.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\ref\linkedListImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\linkedListImplementation\obj\Debug\net5.0\linkedListImplementation.genruntimeconfig.cache

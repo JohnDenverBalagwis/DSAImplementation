@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.exe
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.deps.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.runtimeconfig.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\ref\DataStructureandAlgorithm.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\bin\Debug\net5.0\DataStructureandAlgorithm.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\ref\DataStructureandAlgorithm.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\DataStructureandAlgorithm\obj\Debug\net5.0\DataStructureandAlgorithm.genruntimeconfig.cache

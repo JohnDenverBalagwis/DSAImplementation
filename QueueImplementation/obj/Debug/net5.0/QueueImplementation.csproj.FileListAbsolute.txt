@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.exe
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.deps.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.runtimeconfig.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\ref\QueueImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\bin\Debug\net5.0\QueueImplementation.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\ref\QueueImplementation.dll
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.pdb
+C:\Users\ACER\source\repos\DataStructureandAlgorithm\QueueImplementation\obj\Debug\net5.0\QueueImplementation.genruntimeconfig.cache
